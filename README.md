@@ -1,2 +1,2 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+# 四轮足串联腿，八自由度舵机狗
+陀螺仪姿态（有点问题）+小跑步态+行走步态
